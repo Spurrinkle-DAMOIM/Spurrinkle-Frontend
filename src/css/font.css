@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ImcreSoojin';
+    src: url("./tway_air.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+.font{
+    font-family: "ImcreSoojin";
+}
