@@ -1,71 +1,27 @@
-# Getting Started with Create React App
+# DAMOIM
+<div align=center>
+  <img width="400" src="https://github.com/Spurrinkle-DAMOIM/Spurrinkle-Frontend/assets/101163897/bac673be-2e4b-4a7f-9041-2779e5ec87c6"/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <br>
 
-## Available Scripts
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSpurrinkle-DAMOIM%2FSpurrinkle-Frontend&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
 
-In the project directory, you can run:
+## 프로젝트 소개
 
-### `npm start`
+## 주요 기능
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## DEVELOPER
+|      김가연      |          강다빈         |       박호준         |       정근영         |                                                                                                               
+| :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
+|  <img width="160px" src="https://github.com/Spurrinkle-DAMOIM/Spurrinkle-Frontend/assets/101163897/3632401f-b404-4fb6-bf58-fa79dce24cd8" />  |        <img width="160px" src="" />       |      <img width="160px" src="https://github.com/ThrowsGG/ThrowsGG/assets/101163897/99dad46f-ee54-4302-8252-c0627d0bac4c" />      |      <img width="160px" src="" />     |
+|   [@KIN0-0](https://github.com/KIN0-0)    |    [@dabin0513](https://github.com/dabin0513)  | [@hoejun1208](https://github.com/hoejun1208)  | [@Jeong-GeunYeong](https://github.com/Jeong-GeunYeong)  |
+| 선문대학교 컴퓨터공학부 3학년 | 선문대학교 AI소프트웨어 3학년 | 선문대학교 컴퓨터공학부 3학년 | 선문대학교 AI소프트웨어 3학년 |
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📚 STACKS
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 추가자료
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Spurrinkle-Frontend
