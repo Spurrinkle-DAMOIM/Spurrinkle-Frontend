@@ -64,4 +64,5 @@
 ## 추가자료
 - [프로젝트 발표 및 시연 영상](https://www.youtube.com/watch?v=MMJ7BbA3pP8&list=PLKjRKmeEEkp6fB5S_BRuJiX6_mgtlXpDN&index=11)
 - [프로젝트 ppt](https://docs.google.com/presentation/d/1w34WUXCMdqFLmJ5KbSrCtrtk5-Ed-8KKSjMZU8q3TiE/edit?usp=sharing)
+- [백엔드](https://github.com/Spurrinkle-DAMOIM/Backend.git)
 
